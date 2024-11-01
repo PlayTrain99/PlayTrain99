@@ -1,7 +1,7 @@
 ### Hi there 👋, Hi my name is Piotr
 Hey there! 👋 I'm PlayTrain99 – a full stack dev.
 
-Skills: REACT / JS / Python / Django / HTML / CSS
+Skills: React / React Native / Next.js / JS / Python / Django / HTML / CSS / Bootstrap / Tailwind
 
 - ⚡ Fun fact: Building apps that don’t just work but make an impact (well, at least that’s the plan)! 😅 
 
