@@ -10,3 +10,5 @@ Skills: React / React Native / Next.js / JS / Python / Django / HTML / CSS / Boo
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=PlayTrain99)  
 
+![image](https://github.com/user-attachments/assets/224d94ca-0c47-4dc1-8db3-4d1a3eb3cbfe)
+
