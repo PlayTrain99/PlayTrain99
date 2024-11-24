@@ -1,5 +1,5 @@
 ### Hi there 👋, Hi my name is Piotr
-Hey there! 👋 I'm PlayTrain99 – a full stack dev.
+Hey there! I'm PlayTrain99 – a full stack dev.
 
 Skills: React / React Native / Next.js / JS / Python / Django / HTML / CSS / Bootstrap / Tailwind
 
