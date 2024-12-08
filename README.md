@@ -13,3 +13,6 @@ Skills: React / React Native / Next.js / JS / Python / Django / HTML / CSS / Boo
 
 
 
+<div align="center">   
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
