@@ -20,9 +20,11 @@ Hey there! I'm **PlayTrain99** – a passionate **Full Stack Developer** 🚀.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/PlayTrain99) <span> </span> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://piotrgorka.vercel.app/) 
 
 </div>
-  
+
 <div align="center">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlayTrain99)](https://github.com/PlayTrain99/github-readme-stats)">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlayTrain99)](https://github.com/PlayTrain99/github-readme-stats)
+  
   <img src="https://github.com/user-attachments/assets/8ba8c382-445d-49f3-bcfc-a01a02f2d68a" width="20%">
 </div>
 
