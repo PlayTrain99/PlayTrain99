@@ -23,7 +23,6 @@ Hey there! I'm **PlayTrain99** – a passionate **Full Stack Developer** 🚀.
 
   
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlayTrain99)](https://github.com/PlayTrain99/github-readme-stats)
   <img src="https://github.com/user-attachments/assets/8ba8c382-445d-49f3-bcfc-a01a02f2d68a" width="20%">
 </div>
 
